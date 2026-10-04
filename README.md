@@ -3,7 +3,7 @@
 
 # Fahrplan
 
-Eine minimalistische Fahrplan-App für das Light Phone 3. Sie macht nur eine Sache: Zugverbindungen in Deutschland nachschauen und speichern. Kein Ticketkauf, keine Karten, keine Werbung, nur schwarzer Hintergrund und Text, passend zu LightOS.
+Eine minimalistische Fahrplan-App für das Light Phone 3.
 
 ## Funktionen
 
