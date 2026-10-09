@@ -1,4 +1,8 @@
-<img width="584" height="540" alt="Screenshot 2026-10-04 at 18 16 54" src="https://github.com/user-attachments/assets/3fe967d2-2aba-4ebf-a321-d484fff0015a" />
+<img width="1080" height="1240" alt="Screenshot_20261009_095314" src="https://github.com/user-attachments/assets/cb2ef41b-323a-49f3-b0ea-d4cb83db7700" />
+<img width="1080" height="1240" alt="Screenshot_20261009_095237" src="https://github.com/user-attachments/assets/a4b5d564-4158-40e0-9c6e-bb064282425c" />
+<img width="1080" height="1240" alt="Screenshot_20261009_095224" src="https://github.com/user-attachments/assets/f405f835-878f-43ba-8b67-66d310cd942c" />
+<img width="1080" height="1240" alt="Screenshot_20261009_095210" src="https://github.com/user-attachments/assets/b0af383f-1c90-42d2-bf6d-5ca3da800879" />
+
 
 
 # Fahrplan
